@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803845222234",
+    "project_id": "app-movil-89c2f",
+    "storage_bucket": "app-movil-89c2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803845222234:android:b466bd37587396fb698d63",
+        "android_client_info": {
+          "package_name": "com.mycompany.scooterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6cAJBOQHMzW9uKnAgPA9MblbUjbwpOMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
